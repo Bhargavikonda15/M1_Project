@@ -26,25 +26,25 @@ We mention to what the customer needs to do on internet banking system and we ar
 * Outputs: The system will state whether inputs are correct or not.
 
 ### Check balance:
-# Definition: 
+#### Definition: 
 This module preserves the knowledge of the balance of a given account. we can check the balance as per our need .
 * Inputs: Username and password. 
 * Outputs: The system will show the balance of user
 
 ### Adding fund and withdraw amount:
-# Definition :
+#### Definition :
 In function deposit and withdraw , amount is taken as input (in float) and is then added/subtracted to the balance. thus resultant balance is printed in next line. amount of money available in the account to process a fund withdrawal.
 * Inputs: amount, Username and password. 
 * Outputs:  displays the deposited money and withdraw the money.
 
 ### Transfer Funds :
-# Definition:
+#### Definition:
  Transfer Funds allows customer to transfer funds between authorized accounts – own personal accounts. Requested transfer take place immediately or at a selected future date specified by customer.
 * Inputs: amount, target account. Also if he/she wants to enter his/her e-mail, and select the current account or saving account. 
 * Outputs: the system will display Transfer Funds function for transfer funds for display the transaction he/she done.
 
 ### Change password:
-# Definition: 
+#### Definition: 
 This module helps consumers to change their passwords.so users can easily access when they want to change their password
 * Inputs: old password ,new password
 * outputs: Displays the new password.
