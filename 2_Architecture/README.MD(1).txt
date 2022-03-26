@@ -1,3 +1,0 @@
-# BehaviorDiagrams
-## Usecase Diagrams
-
