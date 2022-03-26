@@ -20,7 +20,7 @@ Design and testing operations of Online banking system using unit testing  proce
 ### Customer :
 We mention to what the customer needs to do on internet banking system and we are going to go through these needs and how the customer can do it. 
  ### Login :
-# Definition:
+#### Definition:
  For the users to be able to use this system, they have to enter username and password which they have created before and been saved in the database in the Login page. The user might be a customer or an Admin also.
 *Inputs: Username and password. 
 * Outputs: The system will state whether inputs are correct or not.
@@ -50,15 +50,15 @@ This module helps consumers to change their passwords.so users can easily access
 * outputs: Displays the new password.
 
 # Low Level Requirements:
-# Increase Customer Satisfaction:
+### Increase Customer Satisfaction:
  Internet banking system must allows customers to access banking services 24 hours a day, 365 days a year with minimum downtime period for backup and maintenance.
-# Backup, recovery & business continuity:
+### Backup, recovery & business continuity:
  Banks should ensure adequate back up of data as may be required by their operations. Banks should also have, well documented and tested business continuity plans that address all aspects of the bank’s business 
-# Account ID and Password (PIN) Protection :
+### Account ID and Password (PIN) Protection :
 User Account ID and Password (PIN) protection occurs at the first level within the Internet Banking System. To access Internet Banking, users are required to enter an Account ID and password. Without these, access to the Internet Banking System is denied. Special password characters are used as required :!@#$%^&*()_+-=[]{}|\;:’”, /?
-# Failed Log-on Attempts :
+### Failed Log-on Attempts :
 As an added security feature, the Internet Banking System is denied access after a pre-determined number of failed log-on attempts. If users have been locked out due to exceeding the pre-determined number of log-on attempts, the users must contact the Bank in order to be reinitialized. 
- # Encryption :
+ ### Encryption :
 In addition to password protection, we ensures server authentication by using the latest techniques of data encryption. Data encryption is a way of translating data into a form that is unintelligible without a deciphering mechanism.
                                           
 
