@@ -14,6 +14,7 @@ Design and testing operations of Online banking system using unit testing  proce
 * What:  Online banking system
 * Where: Commercial banks, Central and national banks.
 * When: Need to transfer ,deposit ,withdraw an amount .
+* Who: User and Customers 
 * How: User need to take input as customers password and account number then it gives  an output as your account is registered.
 # Detail Requirements:
 ## High Level Requirements:
