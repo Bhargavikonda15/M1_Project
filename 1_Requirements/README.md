@@ -6,10 +6,14 @@ The The main objective of this “Online banking system” which is developed in
 ## Defining System
 Design and testing operations of Online banking system using unit testing  process .
 ### SWOT analysis
-   *  Strengths    : Innovative, User-friendly.
-   *  Weakness     : Failed to login on more attempts, If there’s a power outage, or if servers go down at  that time we unable to make any transactions.
-   *  Opportunities: Loan solution for small and medium enterprises.
-   *  Threats      : Internet banking involves a lot of legal issue.
+   *  Strengths    
+         Innovative, User-friendly.
+   *  Weakness     
+         Failed to login on more attempts, If there’s a power outage, or if servers go down at  that time we unable to make any transactions.
+   *  Opportunities
+         Loan solution for small and medium enterprises.
+   *  Threats      
+         Internet banking involves a lot of legal issue.
 ### 4’W and 1’H
    *  What  : Online banking system
    *  Where : Commercial banks, Central and national banks.
