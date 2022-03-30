@@ -10,7 +10,7 @@ Design and testing operations of Online banking system using unit testing  proce
 * Opportunities: Loan solution for small and medium enterprises.
 * Threats      : Internet banking involves a lot of legal issue.
 ### 4’W and 1’H
-* What  : Online banking system
+. What  : Online banking system
 * Where : Commercial banks, Central and national banks.
 * When  : Need to transfer ,deposit ,withdraw an amount .
 * Who   : Users and Customers
