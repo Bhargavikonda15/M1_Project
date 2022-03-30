@@ -4,13 +4,13 @@ The The main objective of this “Online banking system” which is developed in
 * The operations which can be performed by the bank personnel are: 
    Login account, Register an account, a user can check balance, a user can deposit money as well as withdraw a money, a user can change password etc.,
 ## Defining System
-Design and testing operations of Online banking system using unit testing  process .
+   Design and testing operations of Online banking system using unit testing  process .
 ### SWOT analysis
    *  Strengths    
           Innovative, User-friendly.
    *  Weakness     
           Failed to login on more attempts, If there’s a power outage, or if servers go down at  that time we unable to make any transactions.
-   *  Opportunities
+   *  Opportunities       
           Loan solution for small and medium enterprises.
    *  Threats      
           Internet banking involves a lot of legal issue.
