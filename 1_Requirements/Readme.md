@@ -3,9 +3,9 @@
 The The main objective of this “Online banking system” which is developed in “C” is to provide a flexible solutions for banking industry. With this system both type of users such as bank customers and working personnel of the particular bank will find easy to use and able to perform all their operations using this system. This system enable its users to open and close the bank account. Customers will able to withdraw and deposit amount to their particular account. It will also able to generate transactions on money for particular customer account.
 The operations which can be performed by the bank personnel are: 
 Login account, Register an account, a user can deposit money as well as withdraw a money, a user can change password etc.,
-# Defining System 
+## Defining System 
 Design and testing operations of Online banking system using unit testing  process .
-# SWOT analysis
+## SWOT analysis
 *     Strengths:  Innovative, User-friendly.
 *      Weakness:  Failed to login on more attempts, If there’s a power outage, or if servers go down at that time we unable to make any transactions.
 * Opportunities:  Loan solution for small and medium enterprises.
@@ -15,7 +15,7 @@ Design and testing operations of Online banking system using unit testing  proce
 * Where:   Commercial banks, Central and national banks.
 *  When:   Need to transfer ,deposit ,withdraw an amount .
 *   How:   User need to take input as customers password and account number then it gives  an output as your account is registered.
-# Detail Requirements
+## Detail Requirements
 ## High Level Requirements
 ### Customer 
 We mention to what the customer needs to do on internet banking system and we are going to go through these needs and how the customer can do it. 
@@ -43,7 +43,7 @@ This module helps consumers to change their passwords.so users can easily access
 * Inputs:  Old password ,new password
 * outputs: Displays the new password.
 
-# Low Level Requirements
+## Low Level Requirements
 ### Increase Customer Satisfaction
  Internet banking system must allows customers to access banking services 24 hours a day, 365 days a year with minimum downtime period for backup and maintenance.
 ### Backup, recovery & business continuity
