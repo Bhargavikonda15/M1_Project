@@ -7,4 +7,4 @@
 
 ## Component Diagram
 
-![component diagram](https://user-images.githubusercontent.com/93070074/160245980-34529e00-f169-4455-bd4e-f745f4bd7497.jpeg)
+![Component Diagram drawio](https://user-images.githubusercontent.com/93070074/160770857-d3abd3e7-7305-4faf-bd12-b069b3dff446.png)
