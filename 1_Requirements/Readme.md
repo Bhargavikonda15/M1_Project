@@ -2,7 +2,7 @@
 # Introduction
 The The main objective of this “Online banking system” which is developed in “C” is to provide a flexible solutions for banking industry. With this system both type of users such as bank customers and working personnel of the particular bank will find easy to use and able to perform all their operations using this system. This system enable its users to open and close the bank account. Customers will able to withdraw and deposit amount to their particular account. It will also able to generate transactions on money for particular customer account.
 The operations which can be performed by the bank personnel are: 
-Login account, Register an account, a user can check balance, a user can deposit money as well as withdraw a money, a user can change password etc.,
+Login account, Register an account, a user can deposit money as well as withdraw a money, a user can change password etc.,
 # Defining System:
 Design and testing operations of Online banking system using unit testing  process .
 # SWOT analysis:
@@ -24,12 +24,6 @@ We mention to what the customer needs to do on internet banking system and we ar
  For the users to be able to use this system, they have to enter username and password which they have created before and been saved in the database in the Login page. The user might be a customer or an Admin also.
 *Inputs: Username and password. 
 * Outputs: The system will state whether inputs are correct or not.
-
-### Check balance:
-### Definition: 
-This module preserves the knowledge of the balance of a given account. we can check the balance as per our need .
-* Inputs: Username and password. 
-* Outputs: The system will show the balance of user
 
 ### Adding fund and withdraw amount:
 ### Definition :
