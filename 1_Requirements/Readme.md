@@ -17,23 +17,21 @@ Design and testing operations of Online banking system using unit testing  proce
  * How   : User need to take input as customers password and account number then it gives  an output as  your account is registered.
 # Detail Requirements
 ## High level requirements
-| ID  	  | Description   	                                        | category   	| Status      	|
-|---	    |---	                                                |---	        |---	        |
-| HR01  	|	User shall be able to registed new account   	    | Techincal   	| Implemented  	|
-|HR02   	| 	User shall be able to login a an account        	| Techincal   	|Implemented   	|
+| ID  	  | Description   	                                     | category    	| Status       	|
+|---	    |---	                                                 |---	          |---	           |
+| HR01  	|	User shall be able to registed new account   	      | Techincal   	| Implemented  	|
+|HR02   	| 	User shall be able to login a an account          	| Techincal   	|Implemented   	|
 |HR03   	| User shall be able to Add an amount	   	            | Techincal   	|Implemented   	|
-|HR04    	|   User Shall be able to Withdraw an amount	        | Techincal   	|Implemented   	|
-|   HR05 	|  	User shall be able to Online transfer an amount 	| Techincal   	|Implemented   	|
-|   HR06 	|  User shall be able to change the password 	        | Techincal   	|Implemented   	|
-
-
+|HR04    |   User Shall be able to Withdraw an amount	         | Techincal   	|Implemented   	|
+|   HR05	|  	User shall be able to Online transfer an amount  	| Techincal   	|Implemented   	|
+|   HR06	|  User shall be able to change the password 	        | Techincal   	|Implemented   	|
 ## Low Level Requirements
- |  ID  	    |  Description 	                          |    category 	|    Status	   |
-|---	    |---	                                         |---            |---	       |
- |LR01      |Increase Customer Satisfaction            |   Techincal   | Implemented	|
-| LR02  	|  Backup, recovery & business continuity    	| Techincal   	| 	Future   |
-| LR03  	| Account ID and Password (PIN) Protection    	| Techincal   	|  Implemented	|
-| LR04  	| Encryption                                  	|   Techincal 	|   Future      |                                  
+ |  ID  	   |  Description 	                               |    category 	 |    Status	  |
+ |---	      |---	                                          |---            |---	         |
+ |LR01      |Increase Customer Satisfaction                |   Techincal   | Implemented	|
+ | LR02    	|  Backup, recovery & business continuity     	| Techincal    	| 	Future     |
+ | LR03    	| Account ID and Password (PIN) Protection    	| Techincal    	|  Implemented|
+ | LR04    	| Encryption                                  	|   Techincal  	|   Future    |                                  
  
                                           
 
