@@ -31,7 +31,7 @@ Design and testing operations of Online banking system using unit testing  proce
  |LR01      |Increase Customer Satisfaction                |   Techincal   | Implemented	|
  | LR02    	|  Backup, recovery & business continuity     	| Techincal    	| 	Future     |
  | LR03    	| Account ID and Password (PIN) Protection    	| Techincal    	|  Implemented|
- | LR04    	| Encryption                                  	|   Techincal  	|   Future    |                                  
+ | LR04    	| Encryption                                  	|   Techincal  	|   Future    |                                   
  
                                           
 
