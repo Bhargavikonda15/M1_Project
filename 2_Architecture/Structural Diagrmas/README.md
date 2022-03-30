@@ -1,7 +1,8 @@
 # Structural Diagrams
 ## Class Diagram 
 
-![class diagram](https://user-images.githubusercontent.com/93070074/160245973-532a678c-06fc-4953-8001-7596603ab87d.jpeg)
+![Class Diagram drawio](https://user-images.githubusercontent.com/93070074/160769673-13e2027d-44e1-4cad-920c-d6c24ae05de4.png)
+
 
 
 ## Component Diagram
