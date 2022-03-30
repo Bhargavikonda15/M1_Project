@@ -1,10 +1,7 @@
 # Behaviour Diagrams
 ## Use Case  Diagram 
-
-
-![usecase diagram](https://user-images.githubusercontent.com/93070074/160245866-9120be31-e5b4-4d8b-b9fd-21364d325f5c.jpeg)
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/93070074/160768512-6ad8a8df-02c9-4bc6-9d49-4babebbd18d6.png)
 
 
 ## Sequence Diagram
 
-![sequence diagram](https://user-images.githubusercontent.com/93070074/160245874-42a1f8e4-1d0c-41de-b59a-0fbd74d629f9.jpeg)
