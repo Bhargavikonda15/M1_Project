@@ -11,10 +11,11 @@ Design and testing operations of Online banking system using unit testing  proce
 * Opportunities:  Loan solution for small and medium enterprises.
 * Threats      : Internet banking involves a lot of legal issue.
 ### 4’W and 1’H
-* What : Online banking system
-* Where: Commercial banks, Central and national banks.
-* When : Need to transfer ,deposit ,withdraw an amount .
-* How  : User need to take input as customers password and account number then it gives  an output as  your account is registered.
+* What  : Online banking system
+* Where : Commercial banks, Central and national banks.
+* When  : Need to transfer ,deposit ,withdraw an amount .
+* Who   : Users and Customers
+* How   : User need to take input as customers password and account number then it gives  an output as  your account is registered.
 # Detail Requirements
 ## High level requirements
 | ID  	| Description   	                                        | category   	| Status      	|
@@ -28,12 +29,12 @@ Design and testing operations of Online banking system using unit testing  proce
 
 
 ## Low Level Requirements
- |  ID  	    |  Description 	                                 |    category 	|    Status	   |
+ |  ID  	    |  Description 	                          |    category 	|    Status	   |
 |---	    |---	                                         |---            |---	       |
- |LR01      |Increase Customer Satisfaction                  |   Techincal   | Implemented	|
+ |LR01      |Increase Customer Satisfaction            |   Techincal   | Implemented	|
 | LR02  	|  Backup, recovery & business continuity    	| Techincal   	| 	Future   |
 | LR03  	| Account ID and Password (PIN) Protection    	| Techincal   	|  Implemented	|
-| LR04  	| Encryption                                  	|   Techincal 	|   Future      |                                    | Techincal     | Future         |
+| LR04  	| Encryption                                  	|   Techincal 	|   Future      |                                  
  
                                           
 
