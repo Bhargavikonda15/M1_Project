@@ -6,15 +6,15 @@ Login account, Register an account, a user can deposit money as well as withdraw
 ## Defining System 
 Design and testing operations of Online banking system using unit testing  process .
 ## SWOT analysis
-*Strengths:      Innovative, User-friendly.
-*Weakness:       Failed to login on more attempts, If there’s a power outage, or if servers go down at that time we unable to make any transactions.
-*Opportunities:  Loan solution for small and medium enterprises.
-*Threats:        Internet banking involves a lot of legal issue.
+  *Strengths:      Innovative, User-friendly.
+  *Weakness:       Failed to login on more attempts, If there’s a power outage, or if servers go down at that time we unable to make any transactions.
+  *Opportunities:  Loan solution for small and medium enterprises.
+  *Threats:        Internet banking involves a lot of legal issue.
 # 4’W and 1’H
-* What:    Online banking system
-* Where:   Commercial banks, Central and national banks.
-* When:    Need to transfer ,deposit ,withdraw an amount .
-* How:     User need to take input as customers password and account number then it gives  an output as your account is registered.
+  * What:    Online banking system
+  * Where:   Commercial banks, Central and national banks.
+  * When:    Need to transfer ,deposit ,withdraw an amount .
+  * How:     User need to take input as customers password and account number then it gives  an output as your account is registered.
 ## Detail Requirements
 ## High Level Requirements
 ### Customer 
@@ -22,26 +22,26 @@ We mention to what the customer needs to do on internet banking system and we ar
  ### Login 
 ### Definition
  For the users to be able to use this system, they have to enter username and password which they have created before and been saved in the database in the Login page. The user might be a customer or an Admin also.
-*  Inputs: Username and password. 
-* Outputs: The system will state whether inputs are correct or not.
+  *  Inputs:  Username and password. 
+  * Outputs:  The system will state whether inputs are correct or not.
 
 ### Adding fund and withdraw amount
 ### Definition 
 In function deposit and withdraw , amount is taken as input (in float) and is then added/subtracted to the balance. thus resultant balance is printed in next line. amount of money available in the account to process a fund withdrawal.
-*  Inputs:   Amount, Username and password. 
-* Outputs:   Displays the deposited money and withdraw the money.
+  *  Inputs:   Amount, Username and password. 
+  * Outputs:   Displays the deposited money and withdraw the money.
 
 ### Transfer Funds 
 ### Definition
  Transfer Funds allows customer to transfer funds between authorized accounts – own personal accounts. Requested transfer take place immediately or at a selected future date specified by customer.
-*  Inputs:  Amount, target account. Also if he/she wants to enter his/her e-mail, and select the current account or saving account. 
-* Outputs:  The system will display Transfer Funds function for transfer funds for display the transaction he/she done.
+  *  Inputs:  Amount, target account.and also if he or she wants to enter his or her e-mail, and select the current account or saving account. 
+  * Outputs:  The system will display Transfer Funds function for transfer funds for display the transaction he/she done.
 
 ### Change password
 ### Definition
 This module helps consumers to change their passwords.so users can easily access when they want to change their password
-*  Inputs:  Old password ,new password
-* outputs:  Displays the new password.
+  *  Inputs:  Old password ,new password
+  * outputs:  Displays the new password.
 
 ## Low Level Requirements
 ### Increase Customer Satisfaction
