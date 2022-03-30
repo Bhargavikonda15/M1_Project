@@ -17,8 +17,8 @@ Design and testing operations of Online banking system using unit testing  proce
 * How  : User need to take input as customers password and account number then it gives  an output as  your account is registered.
 # Detail Requirements
 ## High level requirements
-|ID   |	Description 	                               |    Category   |	Status      |
-|------------------------------------------------------|-------------- |------------ ---|
+|ID   |	Description 	                                    |    Category    |	Status      |
+|:------------------------------------------------------:|-------------- :|---------------:|
 |HR01 |	User shall be able to registed new account     |	Techincal  |	Implemented |
 |------------------------------------------------------|-------------- |------------ ---|
 |HR02 |	User shall be able to login a an account       |	Techincal  |	Implemented |
@@ -32,8 +32,8 @@ Design and testing operations of Online banking system using unit testing  proce
 |HR06 |	User shall be able to change the password	   |     Techincal |    Implemented |
 
 ## Low Level Requirements
- |ID   |Description                                     |    category   |   Status
- |------------------------------------------------------|-------------- |------------ ---|
+ |ID   |Description                                     |    category   |   Status       |
+ |:----------------------------------------------------:|------------- :|---------------:|
  |LR01 |Increase Customer Satisfaction                  |   Techincal   | Implemented    |
  |------------------------------------------------------|-------------- |------------ ---|
  |LR02 |Backup, recovery & business continuity          |Techincal      | Future         |
