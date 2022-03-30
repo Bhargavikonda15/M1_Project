@@ -3,7 +3,7 @@ The The main objective of this “Online banking system” which is developed in
 
 
 * The operations which can be performed by the bank personnel are: 
-  Login account, Register an account, a user can check balance, a user can deposit money as well as withdraw a money, a user can change password etc.,
+   Login account, Register an account, a user can check balance, a user can deposit money as well as withdraw a money, a user can change password etc.,
 ## Defining System
 Design and testing operations of Online banking system using unit testing  process .
 ### SWOT analysis
