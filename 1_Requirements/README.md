@@ -21,7 +21,7 @@ The The main objective of this “Online banking system” which is developed in
 |HR04    |  User Shall be able to Withdraw an amount	          | Techincal   	|Implemented   	|
 |HR05 	|  User shall be able to Online transfer an amount     | Techincal   	|Implemented   	|
 |HR06	   |  User shall be able to change the password 	       | Techincal   	|Implemented   	|
-### Low Level Requirements
+### Low Level Requirements 
  |  ID  	   |  Description 	                               |    category 	 |    Status	  |
  |----------|------------------------------------------------|-----------------|---------------|
  | LR01     | Increase Customer Satisfaction                 | Techincal       | Implemented	  |
