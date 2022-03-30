@@ -5,16 +5,16 @@ Login account, Register an account, a user can check balance, a user can deposit
 ## Defining System
 Design and testing operations of Online banking system using unit testing  process .
 ### SWOT analysis
- * Strengths    : Innovative, User-friendly.
- * Weakness     : Failed to login on more attempts, If there’s a power outage, or if servers go down at  that time we unable to make any transactions.
- * Opportunities:  Loan solution for small and medium enterprises.
- * Threats      : Internet banking involves a lot of legal issue.
+* Strengths    : Innovative, User-friendly.
+* Weakness     : Failed to login on more attempts, If there’s a power outage, or if servers go down at  that time we unable to make any transactions.
+* Opportunities: Loan solution for small and medium enterprises.
+* Threats      : Internet banking involves a lot of legal issue.
 ### 4’W and 1’H
- * What  : Online banking system
- * Where : Commercial banks, Central and national banks.
- * When  : Need to transfer ,deposit ,withdraw an amount .
- * Who   : Users and Customers
- * How   : User need to take input as customers password and account number then it gives  an output as  your account is registered.
+* What  : Online banking system
+* Where : Commercial banks, Central and national banks.
+* When  : Need to transfer ,deposit ,withdraw an amount .
+* Who   : Users and Customers
+* How   : User need to take input as customers password and account number then it gives  an output as  your account is registered.
 # Detail Requirements
 ## High level requirements
 | ID  	  | Description   	                                     | category    	| Status       	|
