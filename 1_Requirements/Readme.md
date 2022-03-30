@@ -40,7 +40,7 @@ In function deposit and withdraw , amount is taken as input (in float) and is th
 ### Change password
 ### Definition
 This module helps consumers to change their passwords.so users can easily access when they want to change their password
-* Inputs:  old password ,new password
+* Inputs:  Old password ,new password
 * outputs: Displays the new password.
 
 # Low Level Requirements
@@ -52,7 +52,7 @@ This module helps consumers to change their passwords.so users can easily access
 User Account ID and Password (PIN) protection occurs at the first level within the Internet Banking System. To access Internet Banking, users are required to enter an Account ID and password. Without these, access to the Internet Banking System is denied. Special password characters are used as required :!@#$%^&*()_+-=[]{}|\;:’”, /?
 ### Failed Log-on Attempts 
 As an added security feature, the Internet Banking System is denied access after a pre-determined number of failed log-on attempts. If users have been locked out due to exceeding the pre-determined number of log-on attempts, the users must contact the Bank in order to be reinitialized. 
- ### Encryption 
+### Encryption 
 In addition to password protection, we ensures server authentication by using the latest techniques of data encryption. Data encryption is a way of translating data into a form that is unintelligible without a deciphering mechanism.
                                           
 
