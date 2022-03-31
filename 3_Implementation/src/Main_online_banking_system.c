@@ -72,15 +72,7 @@ int main()
 				scanf("%d",&choice);
 				switch(choice)
                 {
-					/*case 1: ;
-                        //check_balance(char amount[]);
-                        void check_balance();
-						//void check_balance(int amount);
-                        {
-						printf("Your current balance is Rs. %.2f",user.balance);
-						//printf("Your Initial balance is Rs. %.2f",user.balance);
-                        }
-						break;*/
+					
 
 					case 1: ;
                         Adding_fund();
