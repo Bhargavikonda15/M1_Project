@@ -6,11 +6,11 @@ The The main objective of this “Online banking system” which is developed in
   ![image](https://user-images.githubusercontent.com/93070074/160866424-e1982c4f-9826-4c17-8f0a-211da73f4a4a.png)
 
 ### 4’W and 1’H
-   * What   : Online banking system
-   * Where  : Commercial banks, Central and national banks.
-   * When   : Need to transfer ,deposit ,withdraw an amount .
-   * Who    : Users and Customers
-   * How    : User need to take input as customers password and account number then it gives  an output as  your account is registered.
+   *   What   : Online banking system
+   *   Where  : Commercial banks, Central and national banks.
+   *   When   : Need to transfer ,deposit ,withdraw an amount .
+   *   Who    : Users and Customers
+   *   How    : User need to take input as customers password and account number then it gives  an output as  your account is registered.
 ## Detail Requirements
 ### High level requirements
 | ID  	| Description   	                                     | category    	| Status       	|
