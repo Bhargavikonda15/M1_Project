@@ -15,7 +15,7 @@ The The main objective of this “Online banking system” which is developed in
 ### High level requirements
 | ID  	 	| Description   	                                     | category    	| Status       	|
 |--------	|-----------------------------------------------------------|-------------	|--------------	|
-|HR01  		|	User shall be able to registed new account   	    | Techincal   	| Implemented  	|
+|HR01  		|	User shall be able to register new account   	    | Techincal   	| Implemented  	|
 |HR02    	| 	User shall be able to login a an account            | Techincal   	|Implemented   	|
 |HR03    	|  User shall be able to Add an amount	   	           | Techincal   	|Implemented   	|
 |HR04    	|  User Shall be able to Withdraw an amount	         |  Techincal   	|Implemented   	|
