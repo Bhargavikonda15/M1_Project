@@ -7,10 +7,10 @@ The The main objective of this “Online banking system” which is developed in
 
 ### 4’W and 1’H
    *   What  : Online banking system
-   *  Where  : Commercial banks, Central and national banks.
    *   When  : Need to transfer ,deposit ,withdraw an amount .
    *   Who   : Users and Customers
    *   How   : User need to take input as customers password and account number then it gives  an output as  your account is registered.
+   *  Where  : Commercial banks, Central and national banks.
 ## Detail Requirements
 ### High level requirements
 | ID  	| Description   	                                     | category    	| Status       	|
