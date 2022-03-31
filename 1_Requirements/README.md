@@ -6,27 +6,27 @@ The The main objective of this “Online banking system” which is developed in
   ![image](https://user-images.githubusercontent.com/93070074/160866424-e1982c4f-9826-4c17-8f0a-211da73f4a4a.png)
 
 ### 4’W and 1’H
-   *   What  :     Online banking system
-   *   When  :     Need to transfer ,deposit ,withdraw an amount .
-   *    Who  :     Users and Customers
-   *    How  :     User need to take input as customers password and account number then it gives  an output as  your account is registered.
-   *  Where  :     Commercial banks, Central and national banks.
+	*	what	:	Online	Banking	System
+	*	when	:	Need	to	transfer	deposit,withdraw	an	amount
+	*	who	:	Users	and	customers
+	*	how	:	user	need	to	take	input	as	customers	password	and	account	number
+	*	where	:	commercial	banks,centran	and	national	banks
 ## Detail Requirements
 ### High level requirements
-| ID  	 | Description   	                                     | category    	| Status       	|
-|--------|-----------------------------------------------------|--------------|---------------|
-|HR01  	 |	User shall be able to registed new account   	     | Techincal   	| Implemented  	|
-|HR02    | 	User shall be able to login a an account         	 | Techincal   	|Implemented   	|
-|HR03    |  User shall be able to Add an amount	   	           | Techincal   	|Implemented   	|
-|HR04    |  User Shall be able to Withdraw an amount	         | Techincal   	|Implemented   	|
-|HR05    |  User shall be able to Online transfer an amount    | Techincal   	|Implemented   	|
-|HR06	   |  User shall be able to change the password 	       | Techincal   	|Implemented   	|
+| ID  	 	| Description   	                                     | category    	| Status       	|
+|--------	|----------------------------------------------------	-|-------------	|--------------	|
+|HR01  		|	User shall be able to registed new account   	    | Techincal   	| Implemented  	|
+|HR02    	| 	User shall be able to login a an account         	 | Techincal   	|Implemented   	|
+|HR03    	|  User shall be able to Add an amount	   	          | Techincal   	|Implemented   	|
+|HR04    	|  User Shall be able to Withdraw an amount	        	 | Techincal   	|Implemented   	|
+|HR05    	|  User shall be able to Online transfer an amount   	 | Techincal   	|Implemented   	|
+|HR06	   	|  User shall be able to change the password 	       | Techincal   	|Implemented   	|
 ### Low Level Requirements 
- |  ID  	   |  Description 	                               |    category 	 |    Status	  |
- |-----------|-----------------------------------------------|---------------|--------------|
- | LR01      | Increase Customer Satisfaction                | Techincal     | Implemented  |
- | LR02      | Backup, recovery & business continuity     	 | Techincal   	 | 	Future      |
- | LR03      | Account ID and Password (PIN) Protection    	 | Techincal   	 |  Implemented |
- | LR04      | Encryption                                  	 | Techincal     |   Future     |                                   
+ |  ID  	   	|  Description 	                               	|    category 	 |    Status	 	|
+ |----------	|-----------------------------------------------	|---------------|--------------	|
+ | LR01     	| Increase Customer Satisfaction                	| Techincal     | Implemented  	|
+ | LR02      	| Backup, recovery & business continuity     	 	| Techincal   	 | 	Future      |
+ | LR03      	| Account ID and Password (PIN) Protection    	 	| Techincal   	 |  Implemented 	|
+ | LR04      	| Encryption                                  	 	| Techincal     |   Future     	|                                   
  
 
