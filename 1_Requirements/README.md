@@ -7,20 +7,20 @@ The The main objective of this “Online banking system” which is developed in
 
 ### 4’W and 1’H
 	*	what	:	Online	Banking	System
-	*	when	:	Need	to	transfer	deposit,withdraw	an	amount
+	*	when	:	Need	to	transfer deposit,withdraw an amount
 	*	who	:	Users	and	customers
 	*	how	:	user	need	to	take	input	as	customers	password	and	account	number
 	*	where	:	commercial	banks,centran	and	national	banks
 ## Detail Requirements
 ### High level requirements
 | ID  	 	| Description   	                                     | category    	| Status       	|
-|--------	|----------------------------------------------------	-|-------------	|--------------	|
+|--------	|-----------------------------------------------------------|-------------	|--------------	|
 |HR01  		|	User shall be able to registed new account   	    | Techincal   	| Implemented  	|
-|HR02    	| 	User shall be able to login a an account         	 | Techincal   	|Implemented   	|
-|HR03    	|  User shall be able to Add an amount	   	          | Techincal   	|Implemented   	|
-|HR04    	|  User Shall be able to Withdraw an amount	        	 | Techincal   	|Implemented   	|
-|HR05    	|  User shall be able to Online transfer an amount   	 | Techincal   	|Implemented   	|
-|HR06	   	|  User shall be able to change the password 	       | Techincal   	|Implemented   	|
+|HR02    	| 	User shall be able to login a an account            | Techincal   	|Implemented   	|
+|HR03    	|  User shall be able to Add an amount	   	           | Techincal   	|Implemented   	|
+|HR04    	|  User Shall be able to Withdraw an amount	         |  Techincal   	|Implemented   	|
+|HR05    	|  User shall be able to Online transfer an amount   	  | Techincal   	|Implemented   	|
+|HR06	   	|  User shall be able to change the password 	        | Techincal   	|Implemented   	|
 ### Low Level Requirements 
  |  ID  	   	|  Description 	                               	|    category 	 |    Status	 	|
  |----------	|-----------------------------------------------	|---------------|--------------	|
