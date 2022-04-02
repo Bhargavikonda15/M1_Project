@@ -12,8 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/implementations@3
-      run: |
+    - uses: actions/checkout@3@3
         sudo apt-get install valgrind
     - name: make test
       run: valgrind ./hello
