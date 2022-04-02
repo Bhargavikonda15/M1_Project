@@ -13,6 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@3
-        sudo apt-get install valgrind
+           sudo apt-get install valgrind
     - name: make test
       run: valgrind ./hello
