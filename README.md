@@ -7,6 +7,10 @@
 
 ## Badges
   ### codacy [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5de5e2855e1b4e7ca5548fbc0bb78b4f)](https://www.codacy.com/gh/Bhargavikonda15/M1_Project/dashboardutm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bhargavikonda15/M1_Project&amp;utm_campaign=Badge_Grade)
+  
+  <<<<<<< codacy-badge
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a4fd83caca544ff2ac104c20fe0e531d)](https://app.codacy.com/gh/Bhargavikonda15/M1_Project?utm_source=github.com&utm_medium=referral&utm_content=Bhargavikonda15/M1_Project&utm_campaign=Badge_Grade_Settings)
+
 
  ### codiga <a href="https://app.codiga.io/public/user/github/Bhargavikonda15">
    <img src="https://api.codiga.io/public/badge/user/github/Bhargavikonda15?style=light" alt="codiga badge" />
