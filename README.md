@@ -6,4 +6,5 @@
 <a href="https://app.codiga.io/public/user/github/Bhargavikonda15">
    <img src="https://api.codiga.io/public/badge/user/github/Bhargavikonda15?style=light" alt="codiga badge" />
 </a>
+
 [![Cppcheck](https://github.com/Bhargavikonda15/M1_Project/actions/workflows/analysis.yml/badge.svg)](https://github.com/Bhargavikonda15/M1_Project/actions/workflows/analysis.yml)
