@@ -17,3 +17,5 @@
 [![CI](https://github.com/Bhargavikonda15/M1_Project/actions/workflows/checkcpp.yml/badge.svg)](https://github.com/Bhargavikonda15/M1_Project/actions/workflows/checkcpp.yml)
 
 [![Codacy Security Scan](https://github.com/Bhargavikonda15/M1_Project/actions/workflows/codacy.yml/badge.svg)](https://github.com/Bhargavikonda15/M1_Project/actions/workflows/codacy.yml)
+
+[![Cppcheck](https://github.com/Bhargavikonda15/M1_Project/actions/workflows/analysis.yml/badge.svg)](https://github.com/Bhargavikonda15/M1_Project/actions/workflows/analysis.yml)
