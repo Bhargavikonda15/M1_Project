@@ -8,3 +8,5 @@
 </a>
 
 [![Valgrind](https://github.com/Bhargavikonda15/M1_Project/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Bhargavikonda15/M1_Project/actions/workflows/Valgrind.yml)
+
+[![CI](https://github.com/Bhargavikonda15/M1_Project/actions/workflows/checkcpp.yml/badge.svg)](https://github.com/Bhargavikonda15/M1_Project/actions/workflows/checkcpp.yml)
